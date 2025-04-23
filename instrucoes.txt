@@ -1,1 +1,4 @@
 Desafio Git Minsait
+
+Nova descrição do projeto para testar branches e merge no Git.
+
